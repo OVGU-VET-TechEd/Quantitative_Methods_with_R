@@ -1,0 +1,602 @@
+<!--
+author: Hannes Tegelbeckers
+email: hannes.tegelbeckers@ovgu.de
+version: 0.0.1
+language: en
+narrator: US English Female
+comment: Presentation on Artificial Intelligence in Doctoral Education
+-->
+
+# .
+
+<!-- Centered large logo with title and additional details -->
+<div style="text-align: center;">
+  <!-- Large centered logo -->
+  <img src="https://github.com/AEMSabbirRifat/QuRM-Sabbir-/blob/fcb935f84fa64e742a8a56fd234aa373e0d5d003/media/AI%20in%20Doctoral%20Education%20V1/image.png?raw=true" alt="Logo" style="display: block; margin: 0 auto; width: 400px;">
+
+  <!-- Title of the presentation -->
+  <h1>Artificial Intelligence in Doctoral Education</h1>
+
+  <!-- Additional details in bold and larger format -->
+  <p style="font-size: 1.5em; font-weight: bold;">
+    **Professorship of Engineering Pedagogics and Technical Education**<br>
+    Chair: Prof. Dr. Frank Bünning<br>
+    Presenter: Hannes Tegelbeckers<br>
+    Fakultät für Humanwissenschaften
+  </p>
+</div>
+
+
+
+# Optional Download Page
+
+{{0}}
+**Python (programming language)**  
+   [Download](https://www.python.org/downloads/)
+
+**Visual Studio Code (coding environment)**  
+   [Download](https://code.visualstudio.com/download)
+
+---
+
+{{1}}
+**Download and Install R (statistical analysis)**:  
+**R for Different Operating Systems**  
+      [Download R](https://cran.r-project.org/)
+      - **Windows:** [Download](https://cran.r-project.org/bin/windows/base/)
+      - **Mac:** [Download](https://cran.r-project.org/bin/macosx/)
+      - **Linux:** [Download](https://cran.r-project.org/)
+
+---
+
+{{2}}
+**Download and Install R Studio**:  
+**RStudio for Different Operating Systems**  
+      [Download RStudio](https://posit.co/download/rstudio-desktop/)
+      - **Windows:** [Download](https://download1.rstudio.org/electron/windows/RStudio-2024.04.0-735.exe)
+      - **Mac:** [Download](https://download1.rstudio.org/electron/macos/RStudio-2024.04.0-735.dmg)
+      - **Linux:** [Download](https://download1.rstudio.org/electron/jammy/amd64/rstudio-2024.04.0-735-amd64.deb)
+
+
+# Today's objective overview
+
+
+* Understand the broader context why we have to deal with AI
+* Learn about different competency models which are key to AI usage
+* Grasp the genesis of AI and its implication for academia
+* Appreciate prompting as a new skillset
+* Learn about different AI tools to support you in your research
+* Apply your newly gained insights to your research
+* Do your first steps to handle a coding environment
+
+# .
+
+<div style="text-align: center;">
+  ![AI in Doctoral Education](https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/7ae8cca408968a8576707c081eadb311a8f531f5/media/AI%20in%20Doctoral%20Education%20V1/Picture1.jpg)
+
+  <div style="font-size: 0.8em; font-style: italic; margin-top: 5px;">
+    Created with Dall-E 3 (2024)
+  </div>
+</div>
+
+# The rise of artificial intelligence 
+
+{{0}}
+**The interactions of AI with the economy and systems are complex, but the main means by which AI is likely to directly impact jobs are:**
+
+{{0}}
+The replacement of human labour
+
+{{0}}
+The combination of AI-enabled devices, systems and intelligent robots
+
+{{0}}
+The enhancement of human performance in the workplace ('AI plus X' models)
+
+{{1}}
+**Few (if any) jobs can be fully automated through ML [machine learning]. Machine learning technology can transform many jobs in the economy, but full automation will be less significant than:**
+
+{{1}}
+The redesign of processes and the reorganization of tasks
+
+{{1}}
+60 percent of occupations could be [partially] automated.
+
+{{1}}
+TVET systems around the world need to take a new approach to the changing landscape of middle-skill jobs and equip the workforce with digital and transversal skills. 
+
+{{1}}
+Transversal skills that can be applied to a wide range of areas of life and work include critical thinking, communication, financial and media literacy.
+
+{{1}}
+It is also recognized that AI skills should build on a foundation laid in secondary and even elementary school, and this has led to the introduction of computer literacy, programming, robotics and similar subjects into curricula for all age groups.
+
+{{1}}
+The engagement of education and training institutions with AI must be immediate and multidimensional
+
+{{1}}
+Addressing these challenges requires continuous investment in infrastructure, professional development of faculty and other staff, curriculum revision, and institutional and departmental governance principles supported by all stakeholders
+
+<div style="text-align: right; font-size: 0.8em; font-style: italic;">
+(UNESCO UNEVOC 2021b)
+</div>
+
+# History of AI Systems in use
+
+<div style="display: flex; flex-direction: row;">
+<div style="flex: 1; padding-right: 20px;">
+
+**Current developments and Trends**
+
+* Computer vision
+
+* Fuzzy logic
+
+* Expert systems
+
+* Robotics
+
+* Machine learning
+
+* Neural networks/deep learning
+
+* Natural language processing
+
+</div>
+<div style="flex: 1;">
+
+![AI Systems History](https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/908421973eb81809dc33384de0250bbe9aae6b84/media/AI%20in%20Doctoral%20Education%20V1/Picture3.jpg)
+
+</div>
+</div>
+
+<div style="text-align: right; font-size: 0.8em; font-style: italic;">
+(Ertel 2021)
+</div>
+
+# General Issues with AI in higher education
+
+<div style="display: flex; flex-direction: row;">
+<div style="flex: 1; padding-right: 20px;">
+
+**From University Guidelines:**
+
+* Parallel Development
+
+* General Classification of genAI
+
+* Data Protection and Security
+
+* Examination
+
+* AI as Tool and AI as content in teaching and learning
+
+* Competence and Qualifications
+
+* Equal Opportunities/ Access
+
+</div>
+<div style="flex: 1;">
+
+![AI in Higher Education](https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/08bc865f5c8210bed271a490d5d0e68e981ce56e/media/AI%20in%20Doctoral%20Education%20V1/Picture4.jpg)
+
+The use of generative AI at universities is fraught with uncertainties that can never be completely dispelled, not least **due to the constant further development of generative AI**. The fact is that generative AI tools will not disappear and will be used in universities. University-wide guidelines for dealing with generative AI can provide orientation. These guidelines should be dynamic in order to be able to react flexibly to changes.
+
+</div>
+</div>
+
+<div style="text-align: right; font-size: 0.8em; font-style: italic;">
+(Tobor 2024)
+</div>
+
+
+# Competencies to deal with Artificial Intelligence
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 1px;">
+<div style="flex: 1.2;">
+
+![AI Competencies](https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/ff910d16d472f54212b2837788169113ac7c1096/media/AI%20in%20Doctoral%20Education%20V1/Picture5.jpg)
+
+</div>
+<div style="flex: 2.5;">
+
+<span style="color: blue; font-weight: bold;">Computer Literacy:</span> **The ability to efficiently use computers** and related technology, including **understanding** how to use them and perform **basic operations**.
+
+<span style="color: blue; font-weight: bold;">Computer Competency:</span> A deeper level of computer literacy that includes the ability to **use information technology effectively** in both educational and professional settings, encompassing skills such as **programming** and **troubleshooting**.
+
+<span style="color: blue; font-weight: bold;">Programming Competency:</span> The ability to **understand** and **write computer code**, including knowledge of programming languages, algorithms, and debugging.
+
+<span style="color: blue; font-weight: bold;">Digital Literacy:</span> The capability to **use digital tools** and platforms for communication, collaboration, and **problem-solving,** involving **critical thinking** and **ethical use** of digital information.
+
+<span style="color: blue; font-weight: bold;">Computational Thinking:</span> A **problem-solving process** using **computer science principles**, including skills like **algorithmic thinking**, **pattern recognition**, and **abstraction**
+
+<span style="color: green; font-weight: bold;">No comprehensive framework exists of yet!</span>
+
+</div>
+</div>
+
+# Key Skillset: Prompting Competency (Prompt Engineering)
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 5px;">
+<div style="flex: 1;">
+
+**Definition of Prompt Competency:** [SAP](https://www.sap.com/resources/what-is-prompt-engineering)  
+
+Describes the ability to  
+
+* Select information in such a way that an AI model can generate a relevant answer  
+* Provide information to the AI in a clear and targeted manner  
+* Make changes to the input to maximize the specific properties of the AI model  
+
+</div>
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/72ab829d9e09327b64a91cecef2b14535db650d2/media/AI%20in%20Doctoral%20Education%20V1/Picture6.jpg" style="width: 45%; height: Auto;" />
+
+</div>
+</div>
+
+# The Future of Chatbots and AI
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+**Simulate:**  
+From which perspective should the task be understood (teacher, learner, professional context, etc.)?  
+
+**Task:**  
+What is to be done?  
+
+**Steps:**  
+Sequence of steps, what is to be done and when (incl. preconditions, intermediate steps with prompts, etc.)  
+
+**Context:**  
+Specific focus or consideration (e.g., teaching environment, class composition, etc.)  
+
+**Goal:**  
+What is to be achieved?  
+
+**Format:**  
+How the answer should be structured or presented.  
+
+</div>
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/d14441301a4e29f8d2044d9f4ba89c939e7b1ad7/media/AI%20in%20Doctoral%20Education%20V1/Picture7.jpg" 
+style="width: 70%; height: auto;" />
+
+<p style="font-size: small; text-align: center;">
+Aufbau eines ChatGPT Mega-Prompt 
+(© Rob Lennon 2023, @thatroblennon/Twitter)
+</p>
+
+</div>
+</div>
+
+# The Impact of AI on Research Methodology
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/4b9a9f5b5c22faebfae25971014b08708c42f618/media/AI%20in%20Doctoral%20Education%20V1/Picture8.jpg" 
+style="width: 60%; height: auto;" />
+
+<p style="font-size: small; text-align: center;">
+Created with Dall-E 3 (2024)
+</p>
+
+</div>
+<div style="flex: 1;">
+
+AI doesn't just make tasks easier; it also impacts the methodology of research.  
+
+**In qualitative research:**  
+- AI tools can analyze text data,  
+- Identify patterns, and even  
+- Generate thematic insights.  
+
+**In quantitative research:**  
+- AI can generate and debug complex statistical models,  
+- Allowing researchers to focus more on interpretation and less on the technicalities of data processing.  
+
+</div>
+</div>
+
+# The Impact of AI on Research Methodology (cont.)
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/b4f26a82526e05262e2e368f707b2f5b18ccc91a/media/AI%20in%20Doctoral%20Education%20V1/Picture9.jpg" 
+style="width: 70%; height: auto;" />
+
+<p style="font-size: small; text-align: center;">
+Created with Dall-E 3 (2024)
+</p>
+
+</div>
+<div style="flex: 1;">
+
+One of the most significant benefits of AI is the time it saves.  
+
+By automating repetitive tasks such as:  
+ Planning  
+- Data coding  
+- Reference management  
+- Initial drafting and writing  
+
+Furthermore, AI can enhance the accuracy and reliability of your research by minimizing human error in data handling and analysis.  
+
+</div>
+</div>
+
+
+# Use AI to Decrease Workload - Examples
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/f6d7265119724ddaf09cc08400dfaff9b9213e5c/media/AI%20in%20Doctoral%20Education%20V1/Picture10.jpg" 
+style="width: 70%; height: auto;" />
+
+<p style="font-size: small; text-align: center;">
+Created with Dall-E 3 (2024)
+</p>
+
+</div>
+<div style="flex: 1;">
+
+[**ChatGPT**](https://chatgpt.com)  
+
+[**Perplexity**](https://www.perplexity.ai)  
+
+[**Consensus**](https://consensus.app)  
+
+[**DeepL**](https://www.deepl.com)  
+
+[**Claude**](https://claude.ai/new)  
+
+[**Zotero AI**](https://github.com/kazgu/zotero-chatgpt)  
+
+...  
+
+**For advanced usage:**  
+APIs  
+
+</div>
+</div>
+
+# ChatGPT – The All-Rounder with Code Interpreter
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/7cd1eebcb1711fa07879c03c0bdc894ef046236f/media/AI%20in%20Doctoral%20Education%20V1/Picture11.jpg" 
+style="width: 70%; height: auto;" />
+
+<p style="font-size: small; text-align: center;">
+
+</p>
+
+</div>
+<div style="flex: 1;">
+
+[**ChatGPT**](https://chat.gpt.io)  
+
+- Create specific drafts, outlines, or overviews.  
+- Generate written content.  
+- Interpret datasheets (live) and/or provide Python code for later analysis.  
+- Discuss data and compare outputs (e.g., building categories when working with qualitative data).  
+
+</div>
+</div>
+
+# Perplexity
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/16526dcfe7e0d6d1a8a3bd866207c99f063056b8/media/AI%20in%20Doctoral%20Education%20V1/Picture12.jpg" 
+style="width: 70%; height: auto;" />
+
+<p style="font-size: small; text-align: center;">
+
+</p>
+
+</div>
+<div style="flex: 1;">
+
+[**Perplexity**](https://www.perplexity.app)  
+
+- Excels at generating **accurate and well-referenced overviews** of complex topics, serving as a solid foundation for literature reviews.  
+- Get a **comprehensive summary** of a current topic **complete with references**.  
+
+</div>
+</div>
+
+# Consensus AI – Strengthen Your Scientific Argument
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/1de7859024a58e7289b4ab7a0a567224460f54c5/media/AI%20in%20Doctoral%20Education%20V1/Picture13.jpg" 
+style="width: 70%; height: auto;" />
+
+<p style="font-size: small; text-align: center;">
+
+</p>
+
+</div>
+<div style="flex: 1;">
+
+[**Consensus AI**](https://consensus.app)  
+
+- Helps to **find relevant papers** on a new research topic.  
+- First **dive into new topics**.  
+- **Link papers together** for deeper insights.  
+- **Similar tools**: Visual Search, Google Scholar AI, Zotero AI.  
+
+</div>
+</div>
+
+# Claude – The Coding Hero
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/828ce26eb298b2bca7feac322fd46e760821a0a5/media/AI%20in%20Doctoral%20Education%20V1/Picture14.jpg" 
+style="width: 70%; height: auto;" />
+
+</div>
+<div style="flex: 1;">
+
+[**Claude**](https://claude.ai/new)  
+
+- **Write and debug scripts** for statistical analysis, saving time and reducing errors in code development.  
+- **Improve code and scripts** efficiently.  
+- **Create code-based material** (e.g., presentations, applications) with more reliability.  
+- **Fine-tune writing** for better clarity and precision.  
+
+</div>
+</div>
+
+# Combining AI Applications
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/d8e1c91d302976b4d9604338afb1e0db21fd370e/media/AI%20in%20Doctoral%20Education%20V1/Picture15.jpg" 
+style="width: 70%; height: auto;" />
+
+</div>
+<div style="flex: 1;">
+
+**Deepl with ChatGPT**  
+
+- **Write a Python script** to use the **DeepL API** in a Python environment to translate a questionnaire.  
+- Allows **automated document manipulation**.  
+- **Create translations** that are readily formatted for **questionnaire software**.  
+- [**ChatGPT Prompt**](#) *(https://chatgpt.com/share/79c212a8-5e61-4784-b251-1836686b9f03)*  
+
+</div>
+</div>
+
+# Teacher Training Specifications
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+**Creating specialized GPTs** for recurring tasks such as:  
+
+- **Lesson planning**  
+- **Exam writing**  
+- **Worksheet creation**  
+- **Presentations** (*H5P, LiaScript*)  
+- **Internal differentiation**  
+- **Special needs**  
+- **Specific background**  
+
+</div>
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/591bb13bae6aa37a451e2468b4e647cbffbc954c/media/AI%20in%20Doctoral%20Education%20V1/Picture16.jpg" 
+style="width: 90%; height: auto;" />
+
+</div>
+</div>
+
+# PhD Seminar Specifications
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+**Support in Open Source Data Evaluation** (*Script-based evaluation tool: R / R Studio*)  
+
+- **Prompting instructions** (iterations)  
+- **Code development** with ChatGPTs  
+- **“Discussing” bugs and errors** with the AI  
+- **Redefining output** for improved results  
+
+</div>
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/91a050d15077d24146272b0c756b3200a68e2ce0/media/AI%20in%20Doctoral%20Education%20V1/Picture17.jpg" 
+style="width: 95%; height: auto;" />
+
+</div>
+</div>
+
+# What We Learned Along the Way
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+**The usage of ChatGPT demands:**  
+
+- **Thorough knowledge** of the subject at hand to spot mistakes  
+- **Quick drafting support**, as it only functions in its basic setting  
+- **Balancing prompt competence** without sacrificing professionalization  
+- **Basic coding knowledge** (+ computational thinking) to aid the iteration process  
+
+</div>
+<div style="flex: 1;">
+
+<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/d8e00be2d63c2e614ffec51b398fe4b49a000d85/media/AI%20in%20Doctoral%20Education%20V1/Picture18.jpg" 
+style="width: 70%; height: auto;" />
+
+</div>
+</div>
+
+
+# Outlook
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="flex: 1;">
+
+ 
+- To work as a proper tool there needs to be a better understanding on what AI can do and what it can’t do
+- New Developments are outpacing or are running parallel to adapting to the new tools (in the classroom)
+- If guidelines exists they are behind current developments and offer little orientation
+- ChatGPT is one of the view tools which hit the classroom and show usefulness for students and teachers alike (working for and against each other)
+
+
+</div>
+<div style="flex: 1;">
+
+ <img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/7b2684e6187e0cb16bcf82ac2c8c5813ebf22c14/media/AI%20in%20Doctoral%20Education%20V1/Picture19.jpg" 
+ 
+
+style="width: 60%; height: auto;" />
+
+    Created with Dall-E 3 (2024)
+
+</div>
+</div>
+
+
+# Your turn, let’s dive into it
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+  <div style="flex: 1;">
+    <ul>
+      <li>Use the links provided to access the different AIs</li>
+      <li>Think of a task you need to be doing for your PhD</li>
+      <li>E.g. get an overview for a topic</li>
+      <li>Learn about a methodological approach</li>
+      <li>Find a solution for a tedious repetitive task</li>
+      <li>Try to get a specific output by developing your prompt</li>
+    </ul>
+  </div>
+
+
+<div style="flex: 1;">
+
+ <img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/331fcf77861af283173e56089992d3f22623c3f8/media/AI%20in%20Doctoral%20Education%20V1/Picture20.jpg" 
+       
+style="width: 60%; height: auto;" />
+
+    Created with Dall-E 3 (2024)
+
+</div>
+</div>
+

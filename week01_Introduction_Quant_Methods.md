@@ -1,9 +1,9 @@
 <!--
 
-author:   André Dietrich
-email:    masub.makhdoom@ovgu.de
-date:     29/03/2025
-version:  30.0.0
+author:   Hannes, Masub, Sabbir
+email:    hannes.tegelbeckers@ovgu.de, masub.makhdoom@ovgu.de, a.rifat@ovgu.de
+date:     17/03/2025
+version:  1.0.0
 language: en
 narrator: UK English Female
 
@@ -33,33 +33,27 @@ font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham
 
 # Introduction to Quantitative Research Methods (920470)
 
+<span style="font-size: 22px;">__Teaching Team__</span>
  
 
-<div>
+> **Responsible Teacher:** M.A. Hannes Tegelbeckers  
+> **Tutors:** A E M Sabbir Rifat, Masub Makhdoom, Mahwish Kanwal
 
-## Teaching Team
+
+# Meet the Teaching Team
 
                            --{{0}}--
 **M.A. Hannes Tegelbeckers**  
 Hello and welcome to the course *Introduction to Quantitative Research Methods*. This course will guide you through the essential tools and techniques used to collect, analyze, and interpret numerical data in research.
 Our goal is to help you understand the basics of quantitative research and prepare you to apply these methods in your academic and professional work.
 Hannes is your main instructor for this course. He is involved in innovative education projects at the Otto von Guericke University in Magdeburg — including training with virtual reality glasses for engineering educators. You’re in great hands!  **A E M Sabbir Rifat**  
-  Marketing and Management Trainee at Basic Economy 2023 in Poland.**Masub Makhdoom**  
+  Research Assistant, Quantitative Research Methods, 2024.**Masub Makhdoom**  
   An electrical engineer and a passionate sportsman.
 
     {{0}}
-> **Responsible Teacher:** M.A. Hannes Tegelbeckers 
 
-# Tutors
 
-> * A E M Sabbir Rifat
-> * Masub Makhdoom
-> * Mahwish Kanwal
-
-# Meet the Teaching Team
-# Responsible Teacher 
-
-![](https://github.com/61087/QR/blob/main/Hnnes%20Tegelbeckers.jpeg?raw=true)
+<img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1e817c663529f421d2f47a535c572502b001b60e/Media_week1/week01_Introduction_Quant_Methods/1.jpeg" width="450" />
 
     {{|>}}
 
@@ -69,33 +63,27 @@ Training everyday life with VR glasses Engineering educators project at the Otto
 Hannes Tegelbeckers tries out the developed prototype with VR glasses. On the screen in the background, you can see what he is seeing. (Photo: Hannah Theile / University of Magdeburg)
 
 
+# Tutors 
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1e817c663529f421d2f47a535c572502b001b60e/Media_week1/week01_Introduction_Quant_Methods/2.jpeg" alt="Image 1" width="200" height="150">
+    <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1e817c663529f421d2f47a535c572502b001b60e/Media_week1/week01_Introduction_Quant_Methods/3.png" alt="Image 2" width="200" height="150">
+</div>
 
 
-
-## Tutors 
-
-![](https://github.com/61087/QR/blob/main/IMG_0417.JPG?raw=true) ![](https://github.com/61087/QR/blob/main/Masub-Makhdoom.png?raw=true)
+A E M Sabbir Rifat, Research Assistant, Quantitative Research Methods, 2024 [Linkedin](https://www.linkedin.com/in/aemsabbirrifat/) (left) . Masub Makhdoom ( Right )Electrical Enginner and Sportsman.
 
 
-A E M Sabbir Rifat https://www.linkedin.com/in/aemsabbirrifat/ ( Left ) Marketing & Management Trainee at Basic Economy 2023, Poland . Masub Makhdoom ( Right )Electrical Enginner and Sportsman.
 
 # Talk With Us 
 https://cloud.ovgu.de/call/ciz2te64
 
 its very easy!!!!!.... just give it a try.
 
-![](https://github.com/61087/QR/blob/main/Talk%20Screenshot.png?raw=true)
-
-![](https://github.com/61087/QR/blob/main/cat-laptop%20gif.gif?raw=true)
-
-
-
-
-
-
-
-
-
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 0px;">
+  <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1e817c663529f421d2f47a535c572502b001b60e/Media_week1/week01_Introduction_Quant_Methods/4.png" style="width: 70%; height: 250px; object-fit: contain;" />
+  <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1e817c663529f421d2f47a535c572502b001b60e/Media_week1/week01_Introduction_Quant_Methods/5.gif" style="width: 30%; height: 250px; object-fit: contain;" />
+</div>
 
 
 

@@ -44,7 +44,7 @@ comment:  Creating an Online Questionnaire, Ethical Considerations & Handling Mi
 
 ## Steps to Design & Execute a Questionnaire
 
-<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/81a7cd5d781b926279758dfb3e5b41305340544c/media/Online%20Questionnaire%2C%20Ethical%20Considerations%20%26%20Handling%20Missing%20Data/Picture1.jpg" alt="Online Questionnaire, Ethical Considerations & Handling Missing Data" width="600"/>
+<img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/508900223b402eb976ebe59c45903f2f2327d28d/Media_week4/Picture1.jpg" alt="Online Questionnaire, Ethical Considerations & Handling Missing Data" width="600"/>
 
 
 
@@ -80,7 +80,7 @@ __3.__ **Avoiding Bias**
 
 __4.__ **Question Types**
 
-<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/81a7cd5d781b926279758dfb3e5b41305340544c/media/Online%20Questionnaire,%20Ethical%20Considerations%20%26%20Handling%20Missing%20Data/Picture2.jpg" alt="Handling Missing Data" width="600"/>
+<img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/508900223b402eb976ebe59c45903f2f2327d28d/Media_week4/Picture2.jpg" alt="Handling Missing Data" width="600"/>
 
 
 
@@ -140,21 +140,21 @@ a. Very Satisfied b. Satisfied c. Neutral d. Dissatisfied e. Very Dissatisfied
 
 __5.__ **Setting the scales**
 
-<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/81a7cd5d781b926279758dfb3e5b41305340544c/media/Online%20Questionnaire,%20Ethical%20Considerations%20%26%20Handling%20Missing%20Data/Picture4.jpg" alt="Questionnaire Design Example" width="600"/>
+<img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/508900223b402eb976ebe59c45903f2f2327d28d/Media_week4/Picture4.jpg" alt="Questionnaire Design Example" width="600"/>
 
 
 ## Steps to Design & Execute a Questionnaire (contn.)
 
 * **Setting the scales (cont.)**
 
-<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/81a7cd5d781b926279758dfb3e5b41305340544c/media/Online%20Questionnaire,%20Ethical%20Considerations%20%26%20Handling%20Missing%20Data/Picture5.jpg" alt="Ethical Considerations in Online Surveys" width="600"/>
+<img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/508900223b402eb976ebe59c45903f2f2327d28d/Media_week4/Picture5.jpg" alt="Ethical Considerations in Online Surveys" width="600"/>
 
 
 ## Steps to Design & Execute a Questionnaire (contn.)
 
 __6.__ **Logical Flow**
 
-<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/81a7cd5d781b926279758dfb3e5b41305340544c/media/Online%20Questionnaire,%20Ethical%20Considerations%20%26%20Handling%20Missing%20Data/Picture6.jpg" alt="Dealing with Missing Data – Example Flow" width="600"/>
+<img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/508900223b402eb976ebe59c45903f2f2327d28d/Media_week4/Picture6.jpg" alt="Dealing with Missing Data – Example Flow" width="600"/>
 
 
 ## Steps to Design & Execute a Questionnaire (contn.)
@@ -181,14 +181,14 @@ __8.__ **Pretest the questionnaire and execution**
 __9.__ **Data Security & Privacy Management**
 
 
-<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/81a7cd5d781b926279758dfb3e5b41305340544c/media/Online%20Questionnaire,%20Ethical%20Considerations%20%26%20Handling%20Missing%20Data/Picture7.jpg" alt="Summary of Ethical and Data Considerations" width="600"/>
+<img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/508900223b402eb976ebe59c45903f2f2327d28d/Media_week4/Picture7.jpg" alt="Summary of Ethical and Data Considerations" width="600"/>
 
 
 ## Steps to Design & Execute a Questionnaire (contn.)
 
 * **First page of the Questionnaire (Demo)**
 
-<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/81a7cd5d781b926279758dfb3e5b41305340544c/media/Online%20Questionnaire,%20Ethical%20Considerations%20%26%20Handling%20Missing%20Data/Picture8.jpg" alt="Final Overview of Questionnaire and Ethical Considerations" width="600"/>
+<img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/508900223b402eb976ebe59c45903f2f2327d28d/Media_week4/Picture8.jpg" alt="Final Overview of Questionnaire and Ethical Considerations" width="600"/>
 
 
 
@@ -218,7 +218,7 @@ __9.__ **Data Security & Privacy Management**
 
 ## Handling Missing Data
 
-<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/81a7cd5d781b926279758dfb3e5b41305340544c/media/Online%20Questionnaire,%20Ethical%20Considerations%20%26%20Handling%20Missing%20Data/Picture9.jpg" alt="Visualization of Missing Data Handling" width="600"/>
+<img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/508900223b402eb976ebe59c45903f2f2327d28d/Media_week4/Picture9.jpg" alt="Visualization of Missing Data Handling" width="600"/>
 
 
 ## Handling Missing Data (contn.)

@@ -9,10 +9,16 @@
 
 # What is Research?
 {{0}}
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-  ![Thinking GIF](https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/83a005824357aab4eb1f75ada4c7f5720685fa28/media/images/Think%20GIF%20by%20Cabrona%20Inc.gif)
-  ![Confused Reaction](https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/83a005824357aab4eb1f75ada4c7f5720685fa28/media/images/Confused%20Stephen%20Colbert%20GIF%20by%20The%20Late%20Show%20With%20Stephen%20Colbert.gif)
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px; align-items: center;">
+
+  <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1556d39d94930903ccae4a5751c417b995ec5549/Media_week2/Think%20GIF%20by%20Cabrona%20Inc.gif" alt="Thinking GIF" style="width: 200px; height: auto; display: block; margin: auto;" />
+
+  <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1556d39d94930903ccae4a5751c417b995ec5549/Media_week2/Confused%20Stephen%20Colbert.gif" alt="Confused Reaction" style="width: 200px; height: 225px; display: block; margin: auto;" />
+
 </div>
+
+
+
 
 {{1}}
 > According to Grinnell (1993),  
@@ -28,8 +34,8 @@
 3. Mixed Method research
 
 {{2}}
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/7cf1cc340c3ab99803078abfc11b54d6ebbcbbad/media/images/MMR5-768x622.jpg" alt="Mixed Methods Research" style="width: 60%; max-width: 400px;">
+<div style="text-align: center;">   
+  <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1556d39d94930903ccae4a5751c417b995ec5549/Media_week2/MMR5-768x622.jpg" alt="Mixed Methods Research" style="width: 60%; max-width: 400px;"> 
 </div>
 
 
@@ -275,7 +281,7 @@ Aspects of Hypothesis Formulation
 
 {{2}}
 
-<img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/e1a3bc569db879bb7bbd49fb0c9cd9dc30609ff4/media/images/Screenshot%202025-03-02%20154700.png" alt="Screenshot" width="400">
+<img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1556d39d94930903ccae4a5751c417b995ec5549/Media_week2/Screenshot%202025-03-02%20154700.png" alt="Screenshot" width="400">
 
 
 ## Types of Hypothesis (cont.)
@@ -363,4 +369,3 @@ This is an evaluation form to gather feedback on your self-study session. Please
 
 __**Thank you for completing this evaluation! For improving future self-study materials, your feedback is valuable to us.**__
 
-test

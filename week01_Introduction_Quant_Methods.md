@@ -47,8 +47,8 @@ font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham
 Hello and welcome to the course *Introduction to Quantitative Research Methods*. This course will guide you through the essential tools and techniques used to collect, analyze, and interpret numerical data in research.
 Our goal is to help you understand the basics of quantitative research and prepare you to apply these methods in your academic and professional work.
 Hannes is your main instructor for this course. He is involved in innovative education projects at the Otto von Guericke University in Magdeburg — including training with virtual reality glasses for engineering educators. You’re in great hands!  **A E M Sabbir Rifat**  
-  Research Assistant, Quantitative Research Methods, 2024.**Masub Makhdoom**  
-  An electrical engineer and a passionate sportsman.
+  Research Assistant, Quantitative Research Methods, OVGU 2024.**Masub Makhdoom**  
+  An electrical engineer and a passionate sportsman.**Mahwish Kanwal** Research Assistant, TVET, OVGU
 
     {{0}}
 
@@ -66,12 +66,17 @@ Hannes Tegelbeckers tries out the developed prototype with VR glasses. On the sc
 # Tutors 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1e817c663529f421d2f47a535c572502b001b60e/Media_week1/week01_Introduction_Quant_Methods/2.jpeg" alt="Image 1" width="200" height="150">
-    <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1e817c663529f421d2f47a535c572502b001b60e/Media_week1/week01_Introduction_Quant_Methods/3.png" alt="Image 2" width="200" height="150">
+  <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1e817c663529f421d2f47a535c572502b001b60e/Media_week1/week01_Introduction_Quant_Methods/2.jpeg" alt="Image 1" style="width: 200px; height: 150px; object-fit: contain;">
+  <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/1e817c663529f421d2f47a535c572502b001b60e/Media_week1/week01_Introduction_Quant_Methods/3.png" alt="Image 2" style="width: 200px; height: 150px; object-fit: contain;">
+  <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/4ee413dc881e8dd7faf47bc1de590c3f966eadb4/Media_week1/week01_Introduction_Quant_Methods/Mahwish.jpg" alt="Image 3" style="width: 200px; height: 150px; object-fit: contain;">
 </div>
 
 
-A E M Sabbir Rifat, Research Assistant, Quantitative Research Methods, 2024 [Linkedin](https://www.linkedin.com/in/aemsabbirrifat/) (left) . Masub Makhdoom ( Right )Electrical Enginner and Sportsman.
+1. A E M Sabbir Rifat, Research Assistant, Quantitative Research Methods, OVGU 2024 [Linkedin](https://www.linkedin.com/in/aemsabbirrifat/) (left) . 
+
+2. Masub Makhdoom (Middle)Electrical Enginner and Sportsman. 
+
+3. Mahwish Kanwal, Research Assistant, TVET, OVGU (Right)   
 
 
 

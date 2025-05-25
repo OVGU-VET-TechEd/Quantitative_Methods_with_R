@@ -32,10 +32,9 @@
 
 ## 1. Types of Quantitative Research Design
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/052d414368e42a52c073ca1a40672d0fd776f3f8/media/Research%20Design%20and%20sampling%20Methods/Picture1.jpg" alt="Research Design and Sampling Methods" width="60%">
+<div style="text-align: center;">     
+    <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/6bc252fc7076bd103041fcf06cd178de93c43a75/Media_week3/Picture1.jpg" alt="Research Design and Sampling Methods" width="60%"> 
 </div>
----
 
 ## a. Descriptive Research Design
 
@@ -107,9 +106,8 @@ This involves:
 
 ## 4. Data Collection Methods
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/052d414368e42a52c073ca1a40672d0fd776f3f8/media/Research%20Design%20and%20sampling%20Methods/Picture2.jpg" alt="Research Design and Sampling Methods" width="50%">
-
+<div style="text-align: center;">     
+    <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/6bc252fc7076bd103041fcf06cd178de93c43a75/Media_week3/Picture2.jpg" alt="Research Design and Sampling Methods" width="50%">  
 </div>
 
 
@@ -141,9 +139,9 @@ A study explores whether there's a relationship between students' daily caffeine
   <div style="flex: 1; padding-right: 20px;">
     Sampling in quantitative research is the process of selecting a representative subset from a population to analyze characteristics. It ensures that the sample reflects the population, allowing researchers to draw valid conclusions about the broader group being studied (Rahman, 2022).
   </div>
-  <div style="flex: 1; text-align: center;">
-    ![Sampling Image](https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/052d414368e42a52c073ca1a40672d0fd776f3f8/media/Research%20Design%20and%20sampling%20Methods/Picture3.jpg)
-  </div>
+<div style="flex: 1; text-align: center;">     
+    ![Sampling Image](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/6bc252fc7076bd103041fcf06cd178de93c43a75/Media_week3/Picture3.jpg)   
+</div>
 </div>
 
 
@@ -152,9 +150,8 @@ A study explores whether there's a relationship between students' daily caffeine
 ## Types of Sampling Procedure
 
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/AEMSabbirRifat/QuRM-Sabbir-/052d414368e42a52c073ca1a40672d0fd776f3f8/media/Research%20Design%20and%20sampling%20Methods/Picture4.jpg" alt="Sampling Methods" width="60%">
-
+<div style="text-align: center;">     
+    <img src="https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/6bc252fc7076bd103041fcf06cd178de93c43a75/Media_week3/Picture4.jpg" alt="Sampling Methods" width="60%">  
 </div>
 
 
@@ -253,5 +250,4 @@ A study explores whether there's a relationship between students' daily caffeine
 7. **Identify appropriate sampling technique**
 
 **<mark>Use AI platforms for this step-by-step procedure, check feedback, rationalize and improve accordingly</mark>**
-
 

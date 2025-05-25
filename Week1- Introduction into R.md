@@ -3,7 +3,7 @@
 author:   Hannes, Masub, Sabbir
 email:    hannes.tegelbeckers@ovgu.de, masub.makhdoom@ovgu.de, a.rifat@ovgu.de
 date:     17/03/2025
-version:  30.0.0
+version:  1.0.0
 language: en
 narrator: UK English Female
 

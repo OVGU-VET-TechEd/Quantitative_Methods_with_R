@@ -1,7 +1,7 @@
 <!--
 
-author:   André Dietrich
-email:    masub.makhdoom@ovgu.de
+author:   Hannes, Masub, Sabbir
+email:    hannes.tegelbeckers@ovgu.de, masub.makhdoom@ovgu.de, a.rifat@ovgu.de
 date:     17/03/2025
 version:  30.0.0
 language: en
@@ -62,7 +62,7 @@ Go to File - New Project
 Click on New Directory <New Project<
  Brows to directory of your choice < create new subdirectory/ folder 
 e.g. PhD/Seminars/Quantitative/Tegelbeckers/R_Project
-![](https://github.com/61087/QR/blob/main/Screenshot.png?raw=true)
+![](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/14cbbd2b32dc87e99a0efac30c75f7faacf06482/Media_week1/Week1-%20Introduction%20into%20R/1.png)
 
 # Prepare Example Dataset
 
@@ -70,14 +70,14 @@ Source: [https://dashboards.sdgindex.org/explorer]
 
 Download Dataset: [https://dashboards.sdgindex.org/static/downloads/files/SDR2023-data.xlsx]
 
-![](https://github.com/61087/QR/blob/main/Screenshott.png?raw=true)
+![](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/14cbbd2b32dc87e99a0efac30c75f7faacf06482/Media_week1/Week1-%20Introduction%20into%20R/2.png)
 
 # Transform Data to CSV File
 
 * Choose the Raw Data Workbook (time series)
 * Save as CSV Files (Comma- delimited)
 * SDR2023-data-raw_data.csv
-![](https://github.com/61087/QR/blob/main/Picture1.png?raw=true)
+![](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/14cbbd2b32dc87e99a0efac30c75f7faacf06482/Media_week1/Week1-%20Introduction%20into%20R/3.png)
 
 
 
@@ -90,14 +90,14 @@ Download Dataset: [https://dashboards.sdgindex.org/static/downloads/files/SDR202
  * Write code
  * Save scripts 
 * Choose between script tab
-![](https://github.com/61087/QR/blob/main/Picture2.jpg?raw=true)
+![](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/14cbbd2b32dc87e99a0efac30c75f7faacf06482/Media_week1/Week1-%20Introduction%20into%20R/4.jpg)
 
     {{1}}
 ## Data Environment
 * Database(s)
 * Subsets from Data
 * Variables
-![](https://github.com/61087/QR/blob/main/Picture3.jpg?raw=true)
+![](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/14cbbd2b32dc87e99a0efac30c75f7faacf06482/Media_week1/Week1-%20Introduction%20into%20R/5.jpg)
 
 
     {{2}}
@@ -107,7 +107,7 @@ Download Dataset: [https://dashboards.sdgindex.org/static/downloads/files/SDR202
 * Access to OS directory
 * Change path(s)
 * Open Scripts
-![](https://github.com/61087/QR/blob/main/Picture4.jpg?raw=true)
+![](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/14cbbd2b32dc87e99a0efac30c75f7faacf06482/Media_week1/Week1-%20Introduction%20into%20R/6.jpg)
 
     {{3}}
 
@@ -116,7 +116,7 @@ Download Dataset: [https://dashboards.sdgindex.org/static/downloads/files/SDR202
 * Show drawn 
 * See packages
 * Install and update packages
-![](https://github.com/61087/QR/blob/main/Picture6.jpg?raw=true)
+![](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/14cbbd2b32dc87e99a0efac30c75f7faacf06482/Media_week1/Week1-%20Introduction%20into%20R/7.jpg)
 
 
     {{4}}
@@ -126,7 +126,7 @@ Download Dataset: [https://dashboards.sdgindex.org/static/downloads/files/SDR202
 * Run R Scripts live
 * Try 
 * Check error messages
-![](https://github.com/61087/QR/blob/main/Picture7.jpg?raw=true)
+![](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/14cbbd2b32dc87e99a0efac30c75f7faacf06482/Media_week1/Week1-%20Introduction%20into%20R/8.jpg)
 
 </div>
 
@@ -135,7 +135,7 @@ Download Dataset: [https://dashboards.sdgindex.org/static/downloads/files/SDR202
 * Get some idea about the data structure (data types, show first lines of dataset, summarize data)
 
 # End
-![](https://github.com/61087/QR/blob/main/animated-thank-you-image-0038.gif?raw=true)
+![](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/14cbbd2b32dc87e99a0efac30c75f7faacf06482/Media_week1/Week1-%20Introduction%20into%20R/9.gif)
 
 
 

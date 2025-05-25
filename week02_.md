@@ -1,3 +1,14 @@
+<!--
+author:  Sabbir
+email:   a.rifat@st.ovgu.de
+version: 1.0.0
+language: en
+narrator: US English Female
+
+comment:  Quantitative Research Questions, Literature Review & Hypothesis Formulation
+
+-->
+
 # Quantitative Research Questions, Literature Review & Hypothesis Formulation
 
 <span style="font-size: 22px;">__Teaching Team__</span>

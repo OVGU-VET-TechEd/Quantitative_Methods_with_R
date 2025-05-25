@@ -1,3 +1,14 @@
+<!--
+author:  Sabbir
+email:   a.rifat@st.ovgu.de
+version: 1.0.0
+language: en
+narrator: US English Female
+
+comment:  Research Design and Sampling Methods
+
+-->
+
 # Research Design and Sampling Methods
 
 <span style="font-size: 22px;">__Teaching Team__</span>

@@ -74,7 +74,7 @@ Hannes Tegelbeckers tries out the developed prototype with VR glasses. On the sc
 
 1. A E M Sabbir Rifat, Research Assistant, Quantitative Research Methods, OVGU 2024 [Linkedin](https://www.linkedin.com/in/aemsabbirrifat/) (left) . 
 
-2. Masub Makhdoom (Middle)Electrical Enginner and Sportsman. 
+2. Masub Makhdoom Electrical Enginner and Sportsman (Middle). 
 
 3. Mahwish Kanwal, Research Assistant, TVET, OVGU (Right)   
 

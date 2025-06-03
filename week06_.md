@@ -1,6 +1,6 @@
 <!--
-author:   Masub Makhdoom
-email:    masub.makhdoom@ovgu.de
+author:   Hannes, Masub, Sabbir
+email:    hannes.tegelbeckers@ovgu.de, masub.makhdoom@ovgu.de, a.rifat@ovgu.de
 version:  1.0.0
 language: en
 narrator: US English Female
@@ -11,7 +11,26 @@ script:   https://cdn.jsdelivr.net/pyodide/v0.24.1/full/pyodide.js
 import:   https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
 -->
 
-# Descriptive Data Analysis in R - V2
+# Descriptive Data Analysis in R
+
+# video test
+
+columns:
+  - left:
+      ### 📹 Part 1: Rapid Insight  
+      <iframe width="100%" height="315" 
+      src="https://www.youtube.com/embed/d9-JL27-sKk?autoplay=1&mute=1" 
+      title="YouTube video player" frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      allowfullscreen></iframe>
+
+  - right:
+      ### 📹 Part 2: Follow-Up Visual  
+      <iframe width="100%" height="315" 
+      src="https://www.youtube.com/embed/dvHja1SHn98?autoplay=1&mute=1" 
+      title="YouTube video player" frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      allowfullscreen></iframe>
 
 ## Introduction
 
@@ -19,12 +38,20 @@ Descriptive data analysis provides essential insights into data characteristics 
 
 ## 1. Measures of Central Tendency
 
+### Introduction
+
+When we collect data, one of the first questions we ask is: What is typical? Measures of central tendency help us answer that by identifying the 'center' or the most representative value of a dataset. In this section, we’ll explore the three key measures- mean, median, mode and learn when and how to use each effectively.
+
+
 ### Use in Data Evaluation and Interpretation
 
 * Enables identification of typical values and data concentration
 * Facilitates comparison between different groups or datasets
 * Helps detect potential data entry errors or outliers
 * Provides basis for further statistical analyses
+
+
+🎥 __Dive Deeper with Visual Learning__ [Measures of Central Tendency](https://www.youtube.com/watch?v=zC6e47l0tV4)
 
 ### Practical Tips
    --{{0}}--
@@ -37,23 +64,8 @@ Descriptive data analysis provides essential insights into data characteristics 
 
 ### R Example
 
-Method 5: Browser-Specific Solution
-<button onclick="downloadDirect()">📥 Force Download</button>
-<script>
-function downloadDirect() {
-    const url = 'https://github.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/raw/6ba98c7d60aaa1f4d51ae262db82770e447ea824/Media_week6/2024_25_Quant_Example_Data_AI_Competency.csv';
-    
-    // Try to open in new window first
-    const newWindow = window.open(url, '_blank');
-    
-    // If that doesn't work, show instructions
-    setTimeout(() => {
-        if (newWindow) {
-            alert('The dataset has opened in a new window. Please use Ctrl+S (or Cmd+S) to save it, or right-click and select "Save as..."');
-        }
-    }, 1000);
-}
-</script>
+[Download QuRM WiSe 2024/2025 AI Dataset ZIP](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/c02054fbb07b20ddfd2c8e6b6752fd7387f629a5/Media_week6/QuRM%20WiSe%202024-2025%20datadet.zip)
+
 
 ```r
 # Load required libraries and data
@@ -131,6 +143,9 @@ Measures of variability quantify how spread out data points are in a dataset. Th
 * Enables comparison of variability between different datasets
 * Helps evaluate the precision of measurements
 
+🎥 __Dive Deeper with Visual Learning__ [Measures of Variability (Dispersion)](https://www.youtube.com/watch?v=s7WTQ0H0Acc)
+
+
 ### Practical Tips
    --{{0}}--
 !?[](https://github.com/Masub27/Quantitative-Research-/blob/main/Measures%20of%20Variability%20Dispersionn.mp4?raw=true)
@@ -141,6 +156,9 @@ Measures of variability quantify how spread out data points are in a dataset. Th
 > "Nora  is here to help us understand this better."
 
 ### R Example
+
+[Download QuRM WiSe 2024/2025 AI Dataset ZIP](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/c02054fbb07b20ddfd2c8e6b6752fd7387f629a5/Media_week6/QuRM%20WiSe%202024-2025%20datadet.zip)
+
 
 ```r
 # Calculate measures of variability
@@ -203,6 +221,8 @@ Measures of relative position help understand where specific values fall within 
 * Enables comparison of values across different datasets
 * Facilitates understanding of data quartiles and percentiles
 
+🎥 __Dive Deeper with Visual Learning__ [ Measures of Relative Position](https://www.youtube.com/watch?v=x1LvP1iE07o)
+
 ### Practical Tips
    --{{0}}--
 !?[](https://github.com/Masub27/Quantitative-Research-/blob/main/Measures%20of%20Relative%20Positionnn.mp4?raw=true)
@@ -213,6 +233,9 @@ Measures of relative position help understand where specific values fall within 
 > "Omar  is here to help us understand this better."
 
 ### R Example
+
+[Download QuRM WiSe 2024/2025 AI Dataset ZIP](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/c02054fbb07b20ddfd2c8e6b6752fd7387f629a5/Media_week6/QuRM%20WiSe%202024-2025%20datadet.zip)
+
 
 ```r
 # Calculate relative position measures
@@ -287,6 +310,8 @@ Graphical methods provide visual representations of data distributions and relat
 * Detects outliers and unusual patterns
 * Communicates findings effectively to non-technical audiences
 
+🎥 __Dive Deeper with Visual Learning__ [ Graphical Methods](https://www.youtube.com/watch?v=csXmVBw8cdo)
+
 ### Practical Tips
    --{{0}}--
 !?[](https://github.com/Masub27/Quantitative-Research-/blob/main/Graphical%20Methods.mp4?raw=true)
@@ -297,6 +322,9 @@ Graphical methods provide visual representations of data distributions and relat
 3. **Color Usage**: Use colors effectively to highlight important patterns
 > "Ayaan  is here to help us understand this better."
 ### R Example
+
+[Download QuRM WiSe 2024/2025 AI Dataset ZIP](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/c02054fbb07b20ddfd2c8e6b6752fd7387f629a5/Media_week6/QuRM%20WiSe%202024-2025%20datadet.zip)
+
 
 ```r
 # Create various plots
@@ -366,6 +394,8 @@ Frequency distribution analysis organizes data into categories and shows how oft
 * Helps detect patterns and trends
 * Facilitates comparison between different groups
 
+🎥 __Dive Deeper with Visual Learning__ [ Frequency Distribution](https://www.youtube.com/watch?v=H9Z0pVKZEbQ)
+
 ### Practical Tips
    --{{0}}--
 !?[](https://github.com/Masub27/Quantitative-Research-/blob/main/Frequency%20Distribution.mp4?raw=true)
@@ -376,6 +406,9 @@ Frequency distribution analysis organizes data into categories and shows how oft
 > "Sara is here to help us understand this better."
 
 ### R Example
+
+[Download QuRM WiSe 2024/2025 AI Dataset ZIP](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/c02054fbb07b20ddfd2c8e6b6752fd7387f629a5/Media_week6/QuRM%20WiSe%202024-2025%20datadet.zip)
+
 
 ```r
 library(readr)
@@ -450,6 +483,8 @@ Data cleaning and preparation are crucial steps that ensure the quality and reli
 * Detects and manages outliers
 * Standardizes data format and coding
 
+🎥 __Dive Deeper with Visual Learning__ [ Data Cleaning and Preparation](https://www.youtube.com/watch?v=2Jw5S5EbpwA)
+
 ### Practical Tips
    --{{0}}--
 !?[](https://github.com/Masub27/Quantitative-Research-/blob/main/Data%20Cleaning%20and%20Preparation.mp4?raw=true)
@@ -460,6 +495,10 @@ Data cleaning and preparation are crucial steps that ensure the quality and reli
 3. **Preserve Raw Data**: Always keep a copy of the original dataset
 > " Emma is here to help us understand this better."
 ### R Example
+
+[Download QuRM WiSe 2024/2025 AI Dataset ZIP](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/c02054fbb07b20ddfd2c8e6b6752fd7387f629a5/Media_week6/QuRM%20WiSe%202024-2025%20datadet.zip)
+
+
 
 ```r
 library(readr)
@@ -539,6 +578,8 @@ Data exploration is an iterative process of investigating and analyzing datasets
 * Guides selection of appropriate statistical methods
 * Validates data quality and assumptions
 
+🎥 __Dive Deeper with Visual Learning__ [Data Exploration](https://www.youtube.com/watch?v=OY4eQrekQvs)
+
 ### Practical Tips
    --{{0}}--
 !?[](https://github.com/Masub27/Quantitative-Research-/blob/main/Data%20Exploration.mp4?raw=true)
@@ -551,6 +592,9 @@ Data exploration is an iterative process of investigating and analyzing datasets
 > "Max is here to help us understand this better."
 
 ### R Example
+
+[Download QuRM WiSe 2024/2025 AI Dataset ZIP](https://raw.githubusercontent.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/c02054fbb07b20ddfd2c8e6b6752fd7387f629a5/Media_week6/QuRM%20WiSe%202024-2025%20datadet.zip)
+
 
 ```r
 library(readr)
@@ -614,3 +658,29 @@ boxplot(data[, c("v_84", "v_85", "v_86", "v_87", "v_88", "v_89")],
         col="lightblue")
 ```
 @LIA.r_withShell
+
+
+## 🎓 Final Task: Apply What You've Learned!
+
+> 📁 Use your **own dataset** for this task.  
+> 🧠 Apply descriptive statistics, visualization, and EDA techniques you've learned so far.
+
+🧪 __Your Tasks__
+
+1. **Measures of Central Tendency**
+
+2. **Coefficient of Variation (CV)**
+
+3. **Box Plot, Heatmap & Outliers**
+
+4. **Cumulative Frequency Plot**
+
+5. **Missing Data Handling**
+
+6. **Comprehensive Exploratory Data Analysis (EDA)**
+
+`
+
+📝 __Submit your work at your OVGU cloud folder__ 
+
+💡 __Tip: Reuse and adapt code from previous lessons/tasks to complete each step effectively!__

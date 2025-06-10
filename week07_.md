@@ -35,6 +35,43 @@ Group comparison in quantitative research refers to the statistical methods used
 - Standard Deviation  
 - Interquartile Range (IQR)  
 
+## Self assessment (Key Measures of Variability)
+
+**1. What is the primary advantage of using the range as a measure of variability?**
+
+- [( )] A. It is robust to outliers.
+- [( )] B. It considers all data points.
+- [(X)] C. It is simple to calculate and understand.
+- [( )] D. It provides information about the data's distribution shape.
+
+---
+
+**2. What does variance fundamentally measure?**
+
+- [(X)] A. The spread of data points around the mean.
+- [( )] B. The average distance between data points.
+- [( )] C. The difference between the highest and lowest values.
+- [( )] D. The central tendency of the data.
+
+---
+
+**3. How is standard deviation related to variance?**
+
+- [( )] A. Standard deviation is the square of the variance.
+- [(X)] B. Standard deviation is the square root of the variance.
+- [( )] C. Standard deviation is half of the variance.
+- [( )] D. Standard deviation is the reciprocal of the variance.
+
+---
+
+**4. The Interquartile Range (IQR) measures the spread of the:**
+
+- [( )] A. Entire dataset.
+- [(X)] B. Middle 50% of the data.
+- [( )] C. Top 25% of the data.
+- [( )] D. Bottom 25% of the data.
+
+
 ## Assumptions in Group Comparisons
 
 - **Normality**  
@@ -54,7 +91,7 @@ Group comparison in quantitative research refers to the statistical methods used
 __Please follow the instructions given through R__
 
 
-### 2. Homogeneity of variance text
+### 2. Homogeneity of variance
 
 __Please follow the instructions given through R__
 
@@ -91,7 +128,22 @@ __Please follow the instructions given through R__
 # Parametric Test
 
 --{{0}}--
-!?[](https://github.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/blob/dd3cf8ddcc70db81b69716447c4a0457f38f044c/Media_week7/Parametric%20Test.mp4?raw=true)
+!?[](https://github.com/OVGU-VET-TechEd/Quantitative_Methods_with_R/blob/1d188ad461793879e91d090c21260f1f89d38782/Media_week7/Parametric%20Test.mp4?raw=true)
+
+<details>
+  <summary>👉 Let's see what Aditi is talking about</summary>
+
+Hi, I am **Aditi**. I will help you to understand the concept of **parametric test**.
+
+Parametric test is a statistical procedure that relies on assumptions regarding the distributional form of the underlying population — most commonly, that the population data follow a **normal distribution**.
+
+These tests estimate population parameters (e.g., means, variances) and are generally applied to **interval** or **ratio-scale** data.
+
+When their assumptions are met, **parametric tests are more statistically powerful** than their non-parametric counterparts, enabling more precise inference about population parameters.
+
+</details>
+
+
 
 
 
@@ -137,6 +189,34 @@ T-tests are used to **compare means between groups** to determine if differences
 | **One-Sample T-test**                 | Compare the mean of one group to a known value.      | Test if average working hours differ from 40 hours.       |
 | **Independent T-test (Two-Sample T-test)** | Compare means of two independent groups.        | Test if male and female students have different math scores. |
 | **Paired T-test**                      | Compare means of two related groups (same individuals). | Test if an exercise program improves weightlifting performance before and after participation. |
+
+## Self assessment (Types of T-tests)
+
+**1. You want to determine if the average height of students in a particular school differs significantly from the national average height of 165 cm. Which type of T-test would be most appropriate for this analysis?**
+
+- [(X)] A. One-Sample T-test
+- [( )] B. Independent T-test
+- [( )] C. Paired T-test
+- [( )] D. ANOVA
+
+---
+
+**2. A researcher wants to compare the effectiveness of two different teaching methods on student test scores. Group A is taught using Method X, and Group B is taught using Method Y. Which type of T-test should be used to compare their mean test scores?**
+
+- [( )] A. One-Sample T-test
+- [(X)] B. Independent T-test (Two-Sample T-test)
+- [( )] C. Paired T-test
+- [( )] D. Chi-Square Test
+
+---
+
+**3. A fitness instructor wants to assess if a 12-week exercise program improves the running speed of their clients. They measure each client's running speed before starting the program and again after completing it. Which statistical test should be applied to analyze the change in running speed?**
+
+
+- [( )] A. One-Sample T-test
+- [( )] B. Independent T-test
+- [(X)] C. Paired T-test
+- [( )] D. Correlation Analysis
 
 
 ## One-Sample T-test in R
